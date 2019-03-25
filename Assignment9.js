@@ -32,7 +32,7 @@ class Podcast extends MediaPlaylist{
   constructor(title, length){
     super(title, length);
   }
-  // console.log('Title:' + this._title + '/n' + 'length:' + this._length);
+   console.log('Title:' + this._title + '/n' + 'length:' + this._length);
 }
 
 
